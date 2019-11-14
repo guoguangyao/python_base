@@ -18,6 +18,9 @@ Python执行
 离开 终端输入exit()
 
 @2--文件运行
-tarena 用户
+Linux 命令：
+touch 创建文件
+
+
 
 '''
