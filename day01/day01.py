@@ -21,6 +21,9 @@ Python执行
 Linux 命令：
 touch 创建文件
 
-
+python 解释器
+cpython
+jpython
 
 '''
+
