@@ -1,5 +1,5 @@
-#__author__ = "linnum"
-#__time__ = "2019/11/14 12:05 AM"
+# __author__ = "linnum"
+# __time__ = "2019/11/14 12:05 AM"
 
 '''
 学习方法
@@ -25,5 +25,19 @@ python 解释器
 cpython
 jpython
 
+Pycharm快捷键：
+home键：光标返回本行最开始
+end键：光标返回本行结尾
+注释代码：ctrl+/
+复制本行代码：ctrl+d
+选择列同时输入：鼠标左键 + alt
+移动行：shift+alt+上下箭头
+智能提示：ctrl + space
+代码格式整理：ctrl + alt + l
 '''
-
+str_usd: print("你好，时间")
+str_usd: print("你好，时间")
+str_usd: print("你好，时间")
+str_usd: print("你好，时间")
+str_usd: print("你好，时间")
+print("rmb")
