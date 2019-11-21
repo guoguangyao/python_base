@@ -82,4 +82,6 @@ print("我的年龄是："+str_age)
 print("我的性别是："+str_gender)
 print("我的成绩是："+str_grade)
 
+
+# int 不能与字符串拼接
 # 变量命名规则  str_name  类型_名字  一定要起的有意义
