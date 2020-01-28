@@ -23,6 +23,11 @@ unit01 = num  % 10
 unit02 = num // 10 % 10
 unit03 = num // 100 % 10
 unit04 = num // 1000 % 10
+# 老师的方法2
+result_3 = num % 10
+result_3 += num // 10 % 10
+result_3 += num // 100 % 10
+result_3 += num // 1000
 
 print(int(first_num))
 print(int(second_num))
@@ -34,5 +39,23 @@ print(unit02)
 print(unit03)
 print(unit04)
 print(unit01 + unit02 + unit03 + unit04)
+print(result_3)
+
+# 练习3  获取总秒数，计算几时几分几秒
+
+time = int(input("请输入总秒数： "))
+second = time % 60
+minute =  time // 60
+hour = time // 3600
+print('%d 小时 %d 分 %d 秒' %( hour, minute, second))
+print(type(hour))
+
+# 练习3  奇偶数判断
+
+int_num = int(input("请输入一个整数： "))
+if int_num % 2 == 0:
+    print("这是一个偶数")
+else :
+    print("这是一个奇数")
 
 
